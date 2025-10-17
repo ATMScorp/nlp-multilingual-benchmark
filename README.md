@@ -71,8 +71,8 @@ data/
 You can obtain the datasets from:
 
 - [Europarl corpus](https://www.statmt.org/europarl/)
-- [Tatoeba Challenge](https://tatoeba.org/)
-- [TED2020 parallel data (OPUS)](https://opus.nlpl.eu/TED2020.php)
+- [Tatoeba Challenge](https://tatoeba.org/en/downloads)
+- [TED2020 parallel data (OPUS)](https://opus.nlpl.eu/TED2020/en&de/v1/TED2020)
 
 If you prefer a small test run, you can create text files with a few English–German or English–Polish sentence pairs using the same format.
 
@@ -119,7 +119,7 @@ You’ll find:
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 | Model | Description | Source |
 |-------|--------------|--------|
@@ -129,7 +129,7 @@ You’ll find:
 
 ---
 
-## 🧪 Metrics
+## Metrics
 
 | Metric | Description |
 |---------|-------------|
@@ -141,9 +141,10 @@ You’ll find:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Developed by **Aliaksandr Trukhanovich**  
 as part of university coursework on **Natural Language Processing (2025)**.
+
 
 ---
